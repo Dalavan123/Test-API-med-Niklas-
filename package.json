@@ -1,0 +1,16 @@
+{
+  "name": "test-api-med-niklas-",
+  "version": "1.0.0",
+  "description": "I index.js filen kommer vi att skapa vår server.\r Innan vi börjar npm init -y",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^11.6.0",
+    "express": "^4.21.1"
+  }
+}
